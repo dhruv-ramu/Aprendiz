@@ -1,6 +1,6 @@
 {
 	"name": "Aprendiz",
-	"description": "A Chrome Extension that teaches you languages such as Spanish. Learn how to use words, not just their translations.",
+	"description": "Aprendiz - The language assistant that won't stop teaching you, for free.",
 	"version": "1.0",
 	"manifest_version": 3,
 	"background": {
