@@ -4,35 +4,35 @@ const dictionary = {
 		"french": "est",
 		"german": "ist",
 		"spanish": "es",
-		"r": 80
+		"r": 90
 	},
 	"as": {
 		"dutch": "als",
 		"french": "comme",
 		"german": "wie",
 		"spanish": "como",
-		"r": 80
+		"r": 90
 	},
 	"that": {
 		"dutch": "dat",
 		"french": "cette",
 		"german": "das",
 		"spanish": "ese",
-		"r": 80
+		"r": 85
 	},
 	"the": {
 		"dutch": "de",
 		"french": "les",
 		"german": "das",
 		"spanish": "los",
-		"r": 80
+		"r": 90
 	},
 	"how": {
 		"dutch": "hoe",
 		"french": "comment",
 		"german": "wie",
 		"spanish": "cómo",
-		"r": 80
+		"r": 70
 	},
 	"why": {
 		"dutch": "waarom",
@@ -46,21 +46,21 @@ const dictionary = {
 		"french": "lorsque",
 		"german": "wenn",
 		"spanish": "cuando",
-		"r": 80
+		"r": 70
 	},
 	"what": {
 		"dutch": "wat",
 		"french": "quel",
 		"german": "was",
 		"spanish": "qué",
-		"r": 80
+		"r": 70
 	},
 	"however": {
 		"dutch": "echter",
 		"french": "toutefois",
 		"german": "jedoch",
 		"spanish": "sin embargo",
-		"r": 80
+		"r": 60
 	},
 	"for": {
 		"dutch": "voor",
@@ -81,77 +81,77 @@ const dictionary = {
 		"french": "gros",
 		"german": "groß",
 		"spanish": "grande",
-		"r": 80
+		"r": 50
 	},
 	"small": {
 		"dutch": "klein",
 		"french": "petit",
 		"german": "klein",
 		"spanish": "pequeña",
-		"r": 80
+		"r": 50
 	},
 	"near": {
 		"dutch": "in de buurt",
 		"french": "à proximité",
 		"german": "in der nähe von",
 		"spanish": "cerca",
-		"r": 80
+		"r": 50
 	},
 	"far": {
 		"dutch": "ver",
 		"french": "loin",
 		"german": "weit",
 		"spanish": "lejos",
-		"r": 80
+		"r": 50
 	},
 	"hot": {
 		"dutch": "heet",
 		"french": "chaud",
 		"german": "heiße",
 		"spanish": "caliente",
-		"r": 80
+		"r": 40
 	},
 	"cold": {
 		"dutch": "koud",
 		"french": "froid",
 		"german": "kalt",
 		"spanish": "frío",
-		"r": 80
+		"r": 40
 	},
 	"similar": {
 		"dutch": "vergelijkbaar",
 		"french": "similaire",
 		"german": "ähnlich",
 		"spanish": "similar",
-		"r": 80
+		"r": 60
 	},
 	"different": {
 		"dutch": "verschillend",
 		"french": "différent",
 		"german": "unterschiedlich",
 		"spanish": "diferente",
-		"r": 80
+		"r": 60
 	},
 	"outside": {
 		"dutch": "buiten",
 		"french": "à l'extérieur",
 		"german": "außen",
 		"spanish": "fuera de",
-		"r": 80
+		"r": 40
 	},
 	"inside": {
 		"dutch": "binnenkant",
 		"french": "à l'intérieur",
 		"german": "innerhalb",
 		"spanish": "dentro",
-		"r": 80
+		"r": 40
 	},
 	"each": {
 		"dutch": "elk",
 		"french": "chaque",
 		"german": "jede einzelne",
 		"spanish": "cada",
-		"r": 80
+		"r": 50
 	},
 	"additionally": {
 		"dutch": "aanvullend",
@@ -165,42 +165,42 @@ const dictionary = {
 		"french": "connecté",
 		"german": "in verbindung gebracht",
 		"spanish": "conectado",
-		"r": 80
+		"r": 50
 	},
 	"one": {
 		"dutch": "een",
 		"french": "une",
 		"german": "einer",
 		"spanish": "uno",
-		"r": 80
+		"r": 30
 	},
 	"two": {
 		"dutch": "twee",
 		"french": "deux",
 		"german": "zwei",
 		"spanish": "dos",
-		"r": 80
+		"r": 30
 	},
 	"three": {
 		"dutch": "drie",
 		"french": "trois",
 		"german": "drei",
 		"spanish": "tres",
-		"r": 80
+		"r": 30
 	},
 	"four": {
 		"dutch": "vier",
 		"french": "quatre",
 		"german": "vier",
 		"spanish": "cuatro",
-		"r": 80
+		"r": 30
 	},
 	"five": {
 		"dutch": "vijf",
 		"french": "cinq",
 		"german": "fünf",
 		"spanish": "cinco",
-		"r": 80
+		"r": 30
 	},
 	"six": {
 		"dutch": "zes",
@@ -214,70 +214,70 @@ const dictionary = {
 		"french": "sept",
 		"german": "sieben",
 		"spanish": "siete",
-		"r": 80
+		"r": 30
 	},
 	"eight": {
 		"dutch": "acht",
 		"french": "huit",
 		"german": "acht",
 		"spanish": "ocho",
-		"r": 80
+		"r": 30
 	},
 	"nine": {
 		"dutch": "negen",
 		"french": "neuf",
 		"german": "neun",
 		"spanish": "nueve",
-		"r": 80
+		"r": 30
 	},
 	"ten": {
 		"dutch": "tien",
 		"french": "dix",
 		"german": "zehn",
 		"spanish": "diez",
-		"r": 80
+		"r": 30
 	},
 	"eleven": {
 		"dutch": "elf",
 		"french": "onze",
 		"german": "elf",
 		"spanish": "once",
-		"r": 80
+		"r": 30
 	},
 	"twelve": {
 		"dutch": "twaalf",
 		"french": "douze",
 		"german": "zwölf",
 		"spanish": "doce",
-		"r": 80
+		"r": 30
 	},
 	"thirteen": {
 		"dutch": "dertien",
 		"french": "treize",
 		"german": "dreizehn",
 		"spanish": "trece",
-		"r": 80
+		"r": 30
 	},
 	"fourteen": {
 		"dutch": "veertien",
 		"french": "quatorze",
 		"german": "vierzehn",
 		"spanish": "catorce",
-		"r": 80
+		"r": 30
 	},
 	"fifteen": {
 		"dutch": "vijftien",
 		"french": "quinze",
 		"german": "fünfzehn",
 		"spanish": "quince",
-		"r": 80
+		"r": 30
 	},
 	"sixteen": {
 		"dutch": "zestien",
 		"french": "seize",
 		"german": "sechszehn",
 		"spanish": "dieciséis",
-		"r": 80
+		"r": 30
 	},
 	"seventeen": {
 		"dutch": "zeventien",
@@ -291,49 +291,49 @@ const dictionary = {
 		"french": "dix-huit",
 		"german": "achtzehn",
 		"spanish": "dieciocho",
-		"r": 80
+		"r": 30
 	},
 	"nineteen": {
 		"dutch": "negentien",
 		"french": "dix-neuf",
 		"german": "neunzehn",
 		"spanish": "diecinueve",
-		"r": 80
+		"r": 30
 	},
 	"twenty": {
 		"dutch": "twintig",
 		"french": "vingt",
 		"german": "zwanzig",
 		"spanish": "veinte",
-		"r": 80
+		"r": 30
 	},
 	"casa": {
 		"dutch": "casa",
 		"french": "casa",
 		"german": "casa",
 		"spanish": "casa",
-		"r": 80
+		"r": 50
 	},
 	"place": {
 		"dutch": "plaats",
 		"french": "endroit",
 		"german": "platz",
 		"spanish": "lugar",
-		"r": 80
+		"r": 50
 	},
 	"high": {
 		"dutch": "hoog",
 		"french": "haute",
 		"german": "hoch",
 		"spanish": "elevado",
-		"r": 80
+		"r": 40
 	},
 	"low": {
 		"dutch": "laag",
 		"french": "meugler",
 		"german": "niedrig",
 		"spanish": "bajo",
-		"r": 80
+		"r": 40
 	},
 	"cheap": {
 		"dutch": "goedkoop",
@@ -361,140 +361,140 @@ const dictionary = {
 		"french": "suite",
 		"german": "mehr",
 		"spanish": "más",
-		"r": 80
+		"r": 40
 	},
 	"less": {
 		"dutch": "minder",
 		"french": "moins",
 		"german": "weniger",
 		"spanish": "menos",
-		"r": 80
+		"r": 40
 	},
 	"important": {
 		"dutch": "belangrijk",
 		"french": "important",
 		"german": "wichtig",
 		"spanish": "importante",
-		"r": 80
+		"r": 40
 	},
 	"why": {
 		"dutch": "waarom",
 		"french": "pourquoi",
 		"german": "warum",
 		"spanish": "por qué",
-		"r": 80
+		"r": 60
 	},
 	"type": {
 		"dutch": "type",
 		"french": "taper",
 		"german": "typ",
 		"spanish": "escribe",
-		"r": 80
+		"r": 60
 	},
 	"need": {
 		"dutch": "nodig hebben",
 		"french": "avoir besoin",
 		"german": "brauchen",
 		"spanish": "necesitar",
-		"r": 80
+		"r": 30
 	},
 	"thing": {
 		"dutch": "ding",
 		"french": "chose",
 		"german": "ding",
 		"spanish": "cosa",
-		"r": 80
+		"r": 30
 	},
 	"image": {
 		"dutch": "afbeelding",
 		"french": "image",
 		"german": "bild",
 		"spanish": "imagen",
-		"r": 80
+		"r": 30
 	},
 	"again": {
 		"dutch": "opnieuw",
 		"french": "de nouveau",
 		"german": "wieder",
 		"spanish": "de nuevo",
-		"r": 80
+		"r": 50
 	},
 	"earlier": {
 		"dutch": "eerder",
 		"french": "plus tôt",
 		"german": "früher",
 		"spanish": "más temprano",
-		"r": 80
+		"r": 30
 	},
 	"before": {
 		"dutch": "voordat",
 		"french": "avant",
 		"german": "vor",
 		"spanish": "antes de",
-		"r": 80
+		"r": 30
 	},
 	"now": {
 		"dutch": "nu",
 		"french": "maintenant",
 		"german": "jetzt",
 		"spanish": "ahora",
-		"r": 80
+		"r": 40
 	},
 	"here": {
 		"dutch": "hier",
 		"french": "ici",
 		"german": "hier",
 		"spanish": "aquí",
-		"r": 80
+		"r": 40
 	},
 	"animal": {
 		"dutch": "dier",
 		"french": "animal",
 		"german": "tier",
 		"spanish": "animal",
-		"r": 80
+		"r": 40
 	},
 	"human": {
 		"dutch": "menselijk",
 		"french": "humain",
 		"german": "mensch",
 		"spanish": "humano",
-		"r": 80
+		"r": 40
 	},
 	"dog": {
 		"dutch": "hond",
 		"french": "chien",
 		"german": "hund",
 		"spanish": "perro",
-		"r": 80
+		"r": 40
 	},
 	"cat": {
 		"dutch": "kat",
 		"french": "chat",
 		"german": "katze",
 		"spanish": "gato",
-		"r": 80
+		"r": 40
 	},
 	"species": {
 		"dutch": "soort",
 		"french": "espèce",
 		"german": "spezies",
 		"spanish": "especies",
-		"r": 80
+		"r": 30
 	},
 	"world": {
 		"dutch": "wereld-",
 		"french": "monde",
 		"german": "welt",
 		"spanish": "mundo",
-		"r": 80
+		"r": 90
 	},
 	"word": {
 		"dutch": "woord",
 		"french": "mot",
 		"german": "wort",
 		"spanish": "palabra",
-		"r": 80
+		"r": 50
 	},
 	"behind": {
 		"dutch": "achter",
@@ -515,70 +515,70 @@ const dictionary = {
 		"french": "la gauche",
 		"german": "links",
 		"spanish": "izquierda",
-		"r": 80
+		"r": 40
 	},
 	"right": {
 		"dutch": "rechtsaf",
 		"french": "droit",
 		"german": "rechts",
 		"spanish": "derecha",
-		"r": 80
+		"r": 40
 	},
 	"true": {
 		"dutch": "waar",
 		"french": "vrai",
 		"german": "wahr",
 		"spanish": "cierto",
-		"r": 80
+		"r": 40
 	},
 	"false": {
 		"dutch": "vals",
 		"french": "faux",
 		"german": "falsch",
 		"spanish": "falso",
-		"r": 80
+		"r": 40
 	},
 	"form": {
 		"dutch": "formulier",
 		"french": "former",
 		"german": "form",
 		"spanish": "formulario",
-		"r": 80
+		"r": 30
 	},
 	"sentence": {
 		"dutch": "zin",
 		"french": "phrase",
 		"german": "satz",
 		"spanish": "frase",
-		"r": 80
+		"r": 20
 	},
 	"online": {
 		"dutch": "online",
 		"french": "en ligne",
 		"german": "online",
 		"spanish": "en línea",
-		"r": 80
+		"r": 40
 	},
 	"day": {
 		"dutch": "dag",
 		"french": "journée",
 		"german": "tag",
 		"spanish": "día",
-		"r": 80
+		"r": 50
 	},
 	"time": {
 		"dutch": "tijd",
 		"french": "temps",
 		"german": "zeit",
 		"spanish": "tiempo",
-		"r": 80
+		"r": 50
 	},
 	"hour": {
 		"dutch": "uur",
 		"french": "heure",
 		"german": "stunde",
 		"spanish": "hora",
-		"r": 80
+		"r": 50
 	},
 	"minute": {
 		"dutch": "minuut",
@@ -592,35 +592,35 @@ const dictionary = {
 		"french": "seconde",
 		"german": "sekunde",
 		"spanish": "segundo",
-		"r": 80
+		"r": 50
 	},
 	"year": {
 		"dutch": "jaar",
 		"french": "année",
 		"german": "jahr",
 		"spanish": "año",
-		"r": 80
+		"r": 50
 	},
 	"neither": {
 		"dutch": "geen van beide",
 		"french": "ni",
 		"german": "weder",
 		"spanish": "ninguno",
-		"r": 80
+		"r": 40
 	},
 	"possibly": {
 		"dutch": "mogelijk",
 		"french": "peut-être",
 		"german": "möglicherweise",
 		"spanish": "posiblemente",
-		"r": 80
+		"r": 40
 	},
 	"ours": {
 		"dutch": "de onze",
 		"french": "les notres",
 		"german": "unsere",
 		"spanish": "nuestro",
-		"r": 80
+		"r": 40
 	},
 	"always": {
 		"dutch": "altijd",
@@ -648,42 +648,42 @@ const dictionary = {
 		"french": "rarement",
 		"german": "selten",
 		"spanish": "casi nunca",
-		"r": 80
+		"r": 20
 	},
 	"something": {
 		"dutch": "iets",
 		"french": "quelque chose",
 		"german": "etwas",
 		"spanish": "alguna cosa",
-		"r": 80
+		"r": 20
 	},
 	"hand": {
 		"dutch": "hand",
 		"french": "main",
 		"german": "hand",
 		"spanish": "mano",
-		"r": 80
+		"r": 30
 	},
 	"face": {
 		"dutch": "gezicht",
 		"french": "visage",
 		"german": "gesicht",
 		"spanish": "cara",
-		"r": 80
+		"r": 30
 	},
 	"ear": {
 		"dutch": "oor",
 		"french": "oreille",
 		"german": "ohr",
 		"spanish": "oreja",
-		"r": 80
+		"r": 20
 	},
 	"eyes": {
 		"dutch": "ogen",
 		"french": "les yeux",
 		"german": "augen",
 		"spanish": "ojos",
-		"r": 80
+		"r": 20
 	},
 	"nose": {
 		"dutch": "neus",
@@ -697,7 +697,7 @@ const dictionary = {
 		"french": "moment",
 		"german": "moment",
 		"spanish": "momento",
-		"r": 80
+		"r": 30
 	},
 	"almost": {
 		"dutch": "bijna",
@@ -711,7 +711,7 @@ const dictionary = {
 		"french": "a commencé",
 		"german": "begann",
 		"spanish": "comenzó",
-		"r": 80
+		"r": 40
 	},
 	"against": {
 		"dutch": "tegen",
@@ -725,56 +725,56 @@ const dictionary = {
 		"french": "différent",
 		"german": "unterschiedlich",
 		"spanish": "diferente",
-		"r": 80
+		"r": 50
 	},
 	"reason": {
 		"dutch": "reden",
 		"french": "raison",
 		"german": "grund",
 		"spanish": "razón",
-		"r": 80
+		"r": 60
 	},
 	"this": {
 		"dutch": "dit",
 		"french": "cette",
 		"german": "dies",
 		"spanish": "esta",
-		"r": 80
+		"r": 50
 	},
 	"night": {
 		"dutch": "nacht",
 		"french": "nuit",
 		"german": "nacht",
 		"spanish": "noche",
-		"r": 80
+		"r": 40
 	},
 	"morning": {
 		"dutch": "ochtend",
 		"french": "matin",
 		"german": "morgen",
 		"spanish": "mañana",
-		"r": 80
+		"r": 40
 	},
 	"afternoon": {
 		"dutch": "namiddag",
 		"french": "après midi",
 		"german": "nachmittag",
 		"spanish": "tarde",
-		"r": 80
+		"r": 30
 	},
 	"evening": {
 		"dutch": "avond",
 		"french": "soirée",
 		"german": "abend",
-		"spanish": "noche",
-		"r": 80
+		"spanish": "tarde",
+		"r": 30
 	},
 	"time": {
 		"dutch": "tijd",
 		"french": "temps",
 		"german": "zeit",
 		"spanish": "tiempo",
-		"r": 80
+		"r": 40
 	},
 	"person": {
 		"dutch": "persoon",
@@ -788,14 +788,14 @@ const dictionary = {
 		"french": "personnes",
 		"german": "personen",
 		"spanish": "gente",
-		"r": 80
+		"r": 30
 	},
 	"alone": {
 		"dutch": "alleen",
 		"french": "seul",
 		"german": "allein",
 		"spanish": "solo",
-		"r": 80
+		"r": 40
 	},
 	"together": {
 		"dutch": "samen",
@@ -809,56 +809,56 @@ const dictionary = {
 		"french": "toutes les personnes",
 		"german": "jedermann",
 		"spanish": "todo el mundo",
-		"r": 80
+		"r": 30
 	},
 	"nobody": {
 		"dutch": "niemand",
 		"french": "personne",
 		"german": "niemand",
 		"spanish": "nadie",
-		"r": 80
+		"r": 30
 	},
 	"early": {
 		"dutch": "vroeg",
 		"french": "de bonne heure",
 		"german": "früh",
 		"spanish": "temprano",
-		"r": 80
+		"r": 30
 	},
 	"late": {
 		"dutch": "laat",
 		"french": "en retard",
 		"german": "spät",
 		"spanish": "tarde",
-		"r": 80
+		"r": 30
 	},
 	"body": {
 		"dutch": "lichaam",
 		"french": "corps",
 		"german": "karosserie",
 		"spanish": "cuerpo",
-		"r": 80
+		"r": 30
 	},
 	"city": {
 		"dutch": "stad",
 		"french": "ville",
 		"german": "stadt",
 		"spanish": "ciudad",
-		"r": 80
+		"r": 90
 	},
 	"country": {
 		"dutch": "land",
 		"french": "pays",
 		"german": "land",
 		"spanish": "país",
-		"r": 80
+		"r": 90
 	},
 	"location": {
 		"dutch": "plaats",
 		"french": "emplacement",
 		"german": "lage",
 		"spanish": "localización",
-		"r": 80
+		"r": 90
 	},
 	"count": {
 		"dutch": "graaf",
@@ -879,21 +879,21 @@ const dictionary = {
 		"french": "carte",
 		"german": "karte",
 		"spanish": "mapa",
-		"r": 80
+		"r": 70
 	},
 	"book": {
 		"dutch": "boek",
 		"french": "livre",
 		"german": "buchen",
 		"spanish": "libro",
-		"r": 80
+		"r": 60
 	},
 	"paper": {
 		"dutch": "papier",
 		"french": "papier",
 		"german": "papier",
 		"spanish": "papel",
-		"r": 80
+		"r": 50
 	},
 	"republic": {
 		"dutch": "republiek",
@@ -921,21 +921,21 @@ const dictionary = {
 		"french": "la technologie",
 		"german": "technologie",
 		"spanish": "tecnología",
-		"r": 80
+		"r": 50
 	},
 	"history": {
 		"dutch": "geschiedenis",
 		"french": "l'histoire",
 		"german": "geschichte",
 		"spanish": "historia",
-		"r": 80
+		"r": 40
 	},
 	"development": {
 		"dutch": "ontwikkeling",
 		"french": "développement",
 		"german": "entwicklung",
 		"spanish": "desarrollo",
-		"r": 80
+		"r": 40
 	},
 	"interesting": {
 		"dutch": "interessant",
@@ -991,28 +991,28 @@ const dictionary = {
 		"french": "premier",
 		"german": "erste",
 		"spanish": "primero",
-		"r": 80
+		"r": 40
 	},
 	"second": {
 		"dutch": "tweede",
 		"french": "seconde",
 		"german": "sekunde",
 		"spanish": "segundo",
-		"r": 80
+		"r": 40
 	},
 	"third": {
 		"dutch": "derde",
 		"french": "troisième",
 		"german": "dritter",
 		"spanish": "tercera",
-		"r": 80
+		"r": 40
 	},
 	"fourth": {
 		"dutch": "vierde",
 		"french": "quatrième",
 		"german": "vierte",
 		"spanish": "cuatro",
-		"r": 80
+		"r": 40
 	},
 	"fifth": {
 		"dutch": "vijfde",
@@ -1026,63 +1026,63 @@ const dictionary = {
 		"french": "sixième",
 		"german": "sechste",
 		"spanish": "sexto",
-		"r": 80
+		"r": 40
 	},
 	"seventh": {
 		"dutch": "zevende",
 		"french": "septième",
 		"german": "siebte",
 		"spanish": "séptimo",
-		"r": 80
+		"r": 40
 	},
 	"eight": {
 		"dutch": "acht",
 		"french": "huit",
 		"german": "acht",
 		"spanish": "ocho",
-		"r": 80
+		"r": 40
 	},
 	"ninth": {
 		"dutch": "negende",
 		"french": "neuvième",
 		"german": "neunte",
 		"spanish": "noveno",
-		"r": 80
+		"r": 40
 	},
 	"tenth": {
 		"dutch": "tiende",
 		"french": "dixième",
 		"german": "zehntel",
 		"spanish": "décimo",
-		"r": 80
+		"r": 40
 	},
 	"spaces": {
 		"dutch": "spaties",
 		"french": "les espaces",
 		"german": "leerzeichen",
 		"spanish": "espacios",
-		"r": 80
+		"r": 40
 	},
 	"environment": {
 		"dutch": "omgeving",
 		"french": "environnement",
 		"german": "umgebung",
 		"spanish": "medio ambiente",
-		"r": 80
+		"r": 50
 	},
 	"science": {
 		"dutch": "wetenschap",
 		"french": "science",
 		"german": "wissenschaft",
 		"spanish": "ciencias",
-		"r": 80
+		"r": 40
 	},
 	"math": {
 		"dutch": "wiskunde",
 		"french": "math",
 		"german": "mathematik",
 		"spanish": "matemáticas",
-		"r": 80
+		"r": 40
 	},
 	"smart": {
 		"dutch": "slim",
