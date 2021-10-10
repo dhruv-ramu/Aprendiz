@@ -5,6 +5,5 @@ Advantages:
 - The extension is built in a way in which it will be easy to add more languages over time.
 
 # Todo
-- Frequency of words per page slider
 - popup.html
-- Ability to guess words, with a chart to track progress.
+- basic css
