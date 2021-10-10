@@ -4,7 +4,7 @@ Advantages:
 - Expand your vocabulary in a particular language while browsing the web, and subconciously picking up a language.
 - The extension is built in a way in which it will be easy to add more languages over time.
 
-#Todo
+# Todo
 - Frequency of words per page slider
 - popup.html
 - Ability to guess words, with a chart to track progress.
